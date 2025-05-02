@@ -1,0 +1,6 @@
+{
+  "clip_length": 15,
+  "default_stream_url": "",
+  "trigger_keywords_file": "trigger_keywords.json",
+  "difficulty": "medium"
+}

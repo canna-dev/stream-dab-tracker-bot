@@ -1,0 +1,7 @@
+__pycache__/
+.env
+*.wav
+*.mp4
+chunk_*.wav
+chunk_*.mp4
+twitch_audio.wav

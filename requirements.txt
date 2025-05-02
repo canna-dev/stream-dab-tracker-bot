@@ -1,0 +1,5 @@
+discord.py==2.3.2
+openai==1.23.2
+python-dotenv==1.0.1
+faster-whisper==0.10.0
+ffmpeg-python==0.2.0
